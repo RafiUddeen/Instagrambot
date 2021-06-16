@@ -4,7 +4,7 @@ Instagram bot ,it’s a console-based script created for massvoting (mass poll v
 
 Features
 
-Author credits : nthanfp Modified by @rafi_ud_deen Follow on Instagram 
+Author credits : @rafi_ud_deen Follow on Instagram 
 
 Views Stories
 
